@@ -1,0 +1,2178 @@
+[
+    {
+        "contract_name": "buggy_1-HotDollarsToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_1-HotDollarsToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_2-CareerOnToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_2-CareerOnToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_3-CareerOnToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_3-CareerOnToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_4-PHO",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_4-PHO",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-TTC",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-TTC",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_6-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_6-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_6-ChannelWallet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_6-ChannelWallet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_7-AccountWallet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_7-AccountWallet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-YFT",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-YFT",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_9-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_9-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_9-XLToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_9-XLToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_11-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_11-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_11-ForTheBlockchain",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_11-ForTheBlockchain",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_12-ERC223Token",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_12-ERC223Token",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_12-Grand",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_12-Grand",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_13-BitCash",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_13-BitCash",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_14-ERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_14-ERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_14-SaveWon",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_14-SaveWon",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_15-MD",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_15-MD",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_16-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_16-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_16-ExclusivePlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_16-ExclusivePlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-AZT",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-AZT",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_18-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_18-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_18-_Yesbuzz",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_18-_Yesbuzz",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_19-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_19-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_19-ethBank",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_19-ethBank",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_20-Stoppable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_20-Stoppable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_20-RampInstantEthPool",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_20-RampInstantEthPool",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_21-StableDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_21-StableDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_22-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_22-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_22-tokenRecipient",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_22-tokenRecipient",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_22-MindsyncPlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_22-MindsyncPlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_24-FomoFeast",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_24-FomoFeast",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_25-WhiteBetting",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_25-WhiteBetting",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_26-UBBCToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_26-UBBCToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_27-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_27-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_27-DanPanCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_27-DanPanCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_28-HYDROGEN",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_28-HYDROGEN",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_29-RaffleTokenExchange",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_29-RaffleTokenExchange",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_30-ERC777",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_30-ERC777",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_30-SKYBITToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_30-SKYBITToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_31-FeeTransactionManager",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_31-FeeTransactionManager",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_32-ERC20Token",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_32-ERC20Token",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_32-AsseteGram",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_32-AsseteGram",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_33-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_33-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_33-Staking",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_33-Staking",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_34-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_34-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_34-LollypopToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_34-LollypopToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_35-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_35-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_35-BitpayerDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_35-BitpayerDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_36-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_36-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_36-tokenRecipient",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_36-tokenRecipient",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_36-MindsyncPlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_36-MindsyncPlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-SafeMath",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-SafeMath",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-AugustCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-AugustCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_38-BIGBOMBv2",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_38-BIGBOMBv2",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_39-TAMCContract",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_39-TAMCContract",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_40-ERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_40-ERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_40-SimpleSwapCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_40-SimpleSwapCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_41-AO",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_41-AO",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_42-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_42-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_42-Staking",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_42-Staking",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-EventMetadata",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-EventMetadata",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Operated",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Operated",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-MultiHashWrapper",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-MultiHashWrapper",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-ProofHash",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-ProofHash",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Template",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Template",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Post",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Post",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-EventMetadata",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-EventMetadata",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Operated",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Operated",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-ProofHashes",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-ProofHashes",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-MultiHashWrapper",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-MultiHashWrapper",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Template",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Template",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Feed",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Feed",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_45-StockBet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_45-StockBet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_46-ProofOfExistence",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_46-ProofOfExistence",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_47-AcunarToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_47-AcunarToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_48-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_48-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_48-QurasToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_48-QurasToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_49-TAMC",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_49-TAMC",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_50-digitalNotary",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_50-digitalNotary",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_19-ethBank",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_19-ethBank",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_20-RampInstantEthPool",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_20-RampInstantEthPool",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_21-StableDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_21-StableDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_25-WhiteBetting",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_25-WhiteBetting",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_29-RaffleTokenExchange",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_29-RaffleTokenExchange",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_1-HotDollarsToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_1-HotDollarsToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_2-CareerOnToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_2-CareerOnToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_3-CareerOnToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_3-CareerOnToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_4-PHO",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_4-PHO",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-TTC",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-TTC",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_6-ChannelWallet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_6-ChannelWallet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_7-AccountWallet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_7-AccountWallet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-YFT",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-YFT",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_9-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_9-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_9-XLToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_9-XLToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_11-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_11-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_11-ForTheBlockchain",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_11-ForTheBlockchain",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_12-ERC223Token",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_12-ERC223Token",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_12-Grand",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_12-Grand",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_13-BitCash",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_13-BitCash",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_14-ERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_14-ERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_14-SaveWon",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_14-SaveWon",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_15-MD",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_15-MD",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_16-ExclusivePlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_16-ExclusivePlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-AZT",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-AZT",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_18-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_18-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_18-_Yesbuzz",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_18-_Yesbuzz",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_19-ethBank",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_19-ethBank",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_20-Stoppable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_20-Stoppable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_20-RampInstantEthPool",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_20-RampInstantEthPool",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_21-StableDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_21-StableDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_22-tokenRecipient",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_22-tokenRecipient",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_22-MindsyncPlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_22-MindsyncPlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_24-FomoFeast",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_24-FomoFeast",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_25-WhiteBetting",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_25-WhiteBetting",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_26-UBBCToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_26-UBBCToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_27-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_27-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_27-DanPanCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_27-DanPanCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_28-HYDROGEN",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_28-HYDROGEN",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_29-RaffleTokenExchange",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_29-RaffleTokenExchange",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_30-ERC777",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_30-ERC777",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_30-SKYBITToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_30-SKYBITToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_31-FeeTransactionManager",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_31-FeeTransactionManager",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_32-ERC20Token",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_32-ERC20Token",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_32-AsseteGram",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_32-AsseteGram",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_33-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_33-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_33-Staking",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_33-Staking",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_34-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_34-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_34-LollypopToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_34-LollypopToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_35-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_35-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_35-BitpayerDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_35-BitpayerDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_36-tokenRecipient",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_36-tokenRecipient",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_36-MindsyncPlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_36-MindsyncPlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-SafeMath",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-SafeMath",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-AugustCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-AugustCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_38-BIGBOMBv2",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_38-BIGBOMBv2",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_39-TAMCContract",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_39-TAMCContract",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_40-ERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_40-ERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_40-SimpleSwapCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_40-SimpleSwapCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_41-AO",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_41-AO",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_42-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_42-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_42-Staking",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_42-Staking",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Operated",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Operated",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-MultiHashWrapper",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-MultiHashWrapper",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-ProofHash",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-ProofHash",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Template",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Template",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Post",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Post",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Operated",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Operated",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-ProofHashes",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-ProofHashes",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-MultiHashWrapper",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-MultiHashWrapper",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Template",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Template",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Feed",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Feed",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_45-StockBet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_45-StockBet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_46-ProofOfExistence",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_46-ProofOfExistence",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_47-AcunarToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_47-AcunarToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_48-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_48-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_48-QurasToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_48-QurasToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_49-TAMC",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_49-TAMC",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_50-digitalNotary",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_50-digitalNotary",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_1-HotDollarsToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_1-HotDollarsToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_2-CareerOnToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_2-CareerOnToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_3-CareerOnToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_3-CareerOnToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_4-PHO",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_4-PHO",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-TTC",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_5-TTC",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_6-ChannelWallet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_6-ChannelWallet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_7-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_7-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_7-AccountWallet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_7-AccountWallet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-YFT",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_8-YFT",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_9-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_9-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_9-XLToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_9-XLToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_11-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_11-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_11-ForTheBlockchain",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_11-ForTheBlockchain",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_12-ERC223Token",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_12-ERC223Token",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_12-Grand",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_12-Grand",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_13-BitCash",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_13-BitCash",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_14-ERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_14-ERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_14-SaveWon",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_14-SaveWon",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_15-MD",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_15-MD",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_16-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_16-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_16-ExclusivePlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_16-ExclusivePlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-TokenERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-AZT",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_17-AZT",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_18-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_18-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_18-_Yesbuzz",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_18-_Yesbuzz",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_19-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_19-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_19-ethBank",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_19-ethBank",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_20-Stoppable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_20-Stoppable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_20-RampInstantEthPool",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_20-RampInstantEthPool",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_21-StableDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_21-StableDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_22-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_22-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_22-tokenRecipient",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_22-tokenRecipient",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_22-MindsyncPlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_22-MindsyncPlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_24-FomoFeast",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_24-FomoFeast",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_25-WhiteBetting",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_25-WhiteBetting",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_26-UBBCToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_26-UBBCToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_27-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_27-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_27-DanPanCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_27-DanPanCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_28-HYDROGEN",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_28-HYDROGEN",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_29-RaffleTokenExchange",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_29-RaffleTokenExchange",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_30-ERC777",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_30-ERC777",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_30-SKYBITToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_30-SKYBITToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_31-FeeTransactionManager",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_31-FeeTransactionManager",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_32-ERC20Token",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_32-ERC20Token",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_32-AsseteGram",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_32-AsseteGram",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_33-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_33-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_33-Staking",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_33-Staking",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_34-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_34-Ownable",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_34-LollypopToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_34-LollypopToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_35-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_35-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_35-BitpayerDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_35-BitpayerDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_36-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_36-owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_36-tokenRecipient",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_36-tokenRecipient",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_36-MindsyncPlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_36-MindsyncPlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-SafeMath",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-SafeMath",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-AugustCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_37-AugustCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_38-BIGBOMBv2",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_38-BIGBOMBv2",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_39-TAMCContract",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_39-TAMCContract",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_40-ERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_40-ERC20",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_40-SimpleSwapCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_40-SimpleSwapCoin",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_41-AO",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_41-AO",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_42-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_42-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_42-Staking",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_42-Staking",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-EventMetadata",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-EventMetadata",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Operated",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Operated",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-MultiHashWrapper",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-MultiHashWrapper",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-ProofHash",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-ProofHash",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Template",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Template",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Post",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_43-Post",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-EventMetadata",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-EventMetadata",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Operated",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Operated",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-ProofHashes",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-ProofHashes",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-MultiHashWrapper",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-MultiHashWrapper",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Template",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Template",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Feed",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_44-Feed",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_45-StockBet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_45-StockBet",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_46-ProofOfExistence",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_46-ProofOfExistence",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_47-AcunarToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_47-AcunarToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_48-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_48-Owned",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_48-QurasToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_48-QurasToken",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_49-TAMC",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_49-TAMC",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_50-digitalNotary",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_50-digitalNotary",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_12-Grand",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_12-Grand",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_16-ExclusivePlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_16-ExclusivePlatform",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_19-ethBank",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_19-ethBank",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_20-RampInstantEthPool",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_20-RampInstantEthPool",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_21-StableDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_21-StableDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_24-FomoFeast",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_24-FomoFeast",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_25-WhiteBetting",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_25-WhiteBetting",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_29-RaffleTokenExchange",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_29-RaffleTokenExchange",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_35-BitpayerDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_35-BitpayerDEX",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_50-digitalNotary",
+        "targets": 1
+    },
+    {
+        "contract_name": "buggy_50-digitalNotary",
+        "targets": 1
+    }
+]
