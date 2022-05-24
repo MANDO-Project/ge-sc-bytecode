@@ -27,6 +27,9 @@ The source code is based on the implementation of [HGT](https://github.com/dmlc/
   - [Results](#results)
     - [Apply HGT to HCFGs in creation bytecode.](#apply-hgt-to-hcfgs-in-creation-bytecode)
     - [Apply HGT to HCFGs in runtime bytecode.](#apply-hgt-to-hcfgs-in-runtime-bytecode)
+- [Statistics](#statistics)
+  - [Datasets](#datasets)
+  - [Classification performance](#classification-performance)
 
 # How to train the models?
 
@@ -127,7 +130,32 @@ tensorboard --logdir LOG_DIR
 ## Results
 
 ### Apply HGT to HCFGs in creation bytecode.
-[![CFGs](./assets/creation_results.png)](https://anonymous.4open.science/r/ge-sc-bytecode-67E5/)
+[![Creation CFGs](./assets/creation_results.png)](https://anonymous.4open.science/r/ge-sc-bytecode-67E5/)
 
 ### Apply HGT to HCFGs in runtime bytecode.
-[![CFGs](./assets/runtime_results.png)](https://anonymous.4open.science/r/ge-sc-bytecode-67E5/)
+[![Runtime CFGs](./assets/runtime_results.png)](https://anonymous.4open.science/r/ge-sc-bytecode-67E5/)
+
+# Statistics
+
+We also make some statistics about the dataset and the last embedding we got from last layer of out models.
+
+## Datasets
+
+Our datasets were mixed from three resources: [SB Curated](https://github.com/smartbugs/smartbugs/tree/master/dataset), [SolidiFI Benchmark](https://github.com/smartbugs/SolidiFI-benchmark) and [SmartBugs Wild](https://github.com/smartbugs/smartbugs-wild) . The chart bellow indicate the proportion of smartcontract which have any bug or not.
+- Creation dataset distribution
+![Creation datatset](./forensics/annotation_statistics/creation_balanced_contract_statistics.png)
+- Runtime dataset distribution
+![Runtime datatset](./forensics/annotation_statistics/runtime_balanced_contract_statistics.png)
+
+## Classification performance
+
+We plot last embedding of each smart contract after applying the PCA to discover classification ability of our models.
+In reentrancy bug, the following figure show embedding of the smart contracts in testset using serveral kind of input node features in creation and runtime bytecode.
+
+- Creation bytecode last embedding.
+![Creation last embedding](forensics/last_hiddens/creation/hgt/reentrancy_last_hidden.png)
+
+- Runtime bytecode last embedding.
+![Creation last embedding](forensics/last_hiddens/runtime/hgt/reentrancy_last_hidden.png)
+  
+- Check [this link](https://anonymous.4open.science/r/ge-sc-bytecode-67E5/forensics) out to see more analysis.
