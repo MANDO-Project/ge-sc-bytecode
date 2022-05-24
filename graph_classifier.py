@@ -11,7 +11,6 @@ from dgl.dataloading import GraphDataLoader
 from torch.utils.tensorboard import SummaryWriter
 
 from sco_models.dataloader import EthIdsDataset
-from sco_models.model_hetero import HAN, MANDOGraphClassifier
 from sco_models.model_hgt import HGTVulGraphClassifier
 from sco_models.visualization import visualize_average_k_folds, visualize_k_folds
 from sco_models.utils import score, get_classification_report, get_confusion_matrix
@@ -98,7 +97,7 @@ def main(args):
     # Get feature extractor
     print('Getting features')
     if args['node_feature'] == 'han':
-        feature_extractor = MANDOGraphClassifier(args['feature_compressed_graph'], node_feature='nodetype', hidden_size=16, device=args['device'])
+        feature_extractor = HGTVulGraphClassifier(args['feature_compressed_graph'], node_feature='nodetype', hidden_size=16, device=args['device'])
         feature_extractor.load_state_dict(torch.load(args['feature_extractor']))
         feature_extractor.to(args['device'])
         feature_extractor.eval()
@@ -130,7 +129,7 @@ def main(args):
         val_dataloader = GraphDataLoader(ethdataset,batch_size=args['batch_size'],drop_last=False,sampler=val_subsampler)
         print('Start training fold {} with {}/{}/{} train/val/test smart contracts'.format(fold, len(train_subsampler), len(val_subsampler), len(test_ids)))
         total_steps = epochs
-        model = MANDOGraphClassifier(args['compressed_graph'], feature_extractor=feature_extractor, node_feature=args['node_feature'], device=device)
+        model = HGTVulGraphClassifier(args['compressed_graph'], feature_extractor=feature_extractor, node_feature=args['node_feature'], device=device)
         model.reset_parameters()
         model.to(device)
         loss_fcn = torch.nn.CrossEntropyLoss()
@@ -182,7 +181,7 @@ def main(args):
 
 
 def load_model(model_path):
-    model = MANDOGraphClassifier()
+    model = HGTVulGraphClassifier()
     model.load_state_dict(torch.load(model_path))
     return model.eval()
 
@@ -190,7 +189,7 @@ def load_model(model_path):
 if __name__ == '__main__':
     import argparse
 
-    parser = argparse.ArgumentParser('MANDO Graph Classifier')
+    parser = argparse.ArgumentParser('HGT-EVM Graph Classifier')
     parser.add_argument('-s', '--seed', type=int, default=1,
                         help='Random seed')
     archive_params = parser.add_argument_group(title='Storage', description='Directories for util results')
@@ -204,7 +203,7 @@ if __name__ == '__main__':
     dataset_params.add_argument('--checkpoint', type=str, default='./models/ijcai2020_smartbugs/han_fold_1.pth', help='Checkpoint of trained models')
     node_feature_params = parser.add_argument_group(title='Node feature', description='Define the way to get node features')
     node_feature_params.add_argument('--feature_extractor', type=str, default='./models/metapath2vec_cfg/han_fold_1.pth', help='If "node_feature" is "GAE" or "LINE" or "Node2vec", we need a extracted features from those models')
-    node_feature_params.add_argument('--node_feature', type=str, default='metapath2vec', help='Kind of node features we want to use, here is one of "nodetype", "metapath2vec", "han", "gae", "line", "node2vec"')
+    node_feature_params.add_argument('--node_feature', type=str, default='metapath2vec', help='Kind of node features we want to use, here is one of "nodetype", "metapath2vec", "gae", "line", "node2vec"')
     train_option_params = parser.add_argument_group(title='Optional configures', description='Advanced options')
     train_option_params.add_argument('--k_folds', type=int, default=5, help='Config for cross validate strategy')
     train_option_params.add_argument('--test', action='store_true', help='Set true if you only want to run test phase')
@@ -243,7 +242,7 @@ if __name__ == '__main__':
         smartbugs_ids = [ethdataset.filename_mapping[sc] for sc in os.listdir(args['testset'])]
         test_dataloader = GraphDataLoader(ethdataset, batch_size=256, drop_last=False, sampler=smartbugs_ids)
         for i in args['k_folds']:
-            model = MANDOGraphClassifier(args['compressed_graph'], args['dataset'], feature_extractor=args['feature_extractor'], node_feature=args['node_feature'], device=args['device'])
+            model = HGTVulGraphClassifier(args['compressed_graph'], args['dataset'], feature_extractor=args['feature_extractor'], node_feature=args['node_feature'], device=args['device'])
             model.load_state_dict(torch.load(args['checkpoint']))
             model.to(args['device'])
             model.eval()
