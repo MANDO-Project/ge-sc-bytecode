@@ -18,7 +18,8 @@ from .graph_utils import load_hetero_nx_graph, \
                          map_node_embedding, get_symmatrical_metapaths, \
                          reflect_graph, get_node_tracker, get_node_ids_by_filename, \
                          generate_random_node_features, generate_zeros_node_features, \
-                         get_length_3_metapath, get_length_2_metapath
+                         get_length_3_metapath, get_length_2_metapath, \
+                         generate_lstm_node_features
 
 
 class HGTLayer(nn.Module):
@@ -361,8 +362,8 @@ class HGTVulGraphClassifier(nn.Module):
         self.symmetrical_global_graph = self.symmetrical_global_graph.to(device)
         self.meta_paths = get_symmatrical_metapaths(self.symmetrical_global_graph)
         # print(self.meta_paths)
-        # self.length_3_meta_paths = get_length_3_metapath(self.symmetrical_global_graph)
-        # self.length_2_meta_paths = get_length_2_metapath(self.symmetrical_global_graph)
+        self.length_3_meta_paths = get_length_3_metapath(self.symmetrical_global_graph)
+        self.length_2_meta_paths = get_length_2_metapath(self.symmetrical_global_graph)
         # self.meta_paths = self.length_3_meta_paths
         # self.meta_paths = self.length_2_meta_paths + self.length_3_meta_paths
         # Concat the metapaths have the same begin nodetype
@@ -421,6 +422,11 @@ class HGTVulGraphClassifier(nn.Module):
             self.in_size = embedding_dim
             features = generate_zeros_node_features(nx_graph, self.in_size)
             features = {k: v.to(self.device) for k, v in features.items()}
+        elif node_feature == 'lstm':
+            embedding_dim = int(feature_extractor)
+            self.in_size = embedding_dim
+            features = generate_lstm_node_features(nx_graph)
+            features = {k: v for k, v in features.items()}
 
         self.symmetrical_global_graph = self.symmetrical_global_graph.to(self.device)
         self.symmetrical_global_graph.ndata['feat'] = features

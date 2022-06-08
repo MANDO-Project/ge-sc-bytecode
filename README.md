@@ -4,10 +4,17 @@
 [![slither](https://img.shields.io/badge/dgl-0.6.1-green)](https://www.dgl.ai/)
 
 # Multi-Level Graph Embeddings
+
 [![GE-SC overview](./assets/HGT-EVM-components.svg)](https://anonymous.4open.science/r/ge-sc-FE31)
+
 This repository is an implementation of HGT-EVM: Heterogeneous Graph Transformers for Vulnerability
 Detection in Smart Contract Bytecode.
 The source code is based on the implementation of [HGT](https://github.com/dmlc/dgl/tree/0.8.x/examples/pytorch/hgt) model using [Deep Graph Library](https://www.dgl.ai/).
+
+
+The following figure shows the smart contract in several forms in our processing, let's have an intuitive view of the graph of source code as well.
+
+[![GE-SC overview](./assets/code_snippet_cfg.svg)](https://anonymous.4open.science/r/ge-sc-FE31)
 
 # Table of contents
 
