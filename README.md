@@ -5,7 +5,7 @@
 
 # Multi-Level Graph Embeddings
 
-[![GE-SC overview](./assets/HGT-EVM-components.svg)](https://anonymous.4open.science/r/ge-sc-FE31)
+[![GE-SC overview](./assets/HGT-EVM-components.svg)](https://anonymous.4open.science/r/ge-sc-bytecode-67E5)
 
 This repository is an implementation of HGT-EVM: Heterogeneous Graph Transformers for Vulnerability
 Detection in Smart Contract Bytecode.
@@ -14,7 +14,7 @@ The source code is based on the implementation of [HGT](https://github.com/dmlc/
 
 The following figure shows the smart contract in several forms in our processing, let's have an intuitive view of the graph of source code as well.
 
-[![GE-SC overview](./assets/code_snippet_cfg.svg)](https://anonymous.4open.science/r/ge-sc-FE31)
+[![GE-SC overview](./assets/code_snippet_cfg.svg)](https://anonymous.4open.science/r/ge-sc-bytecode-67E5)
 
 # Table of contents
 
